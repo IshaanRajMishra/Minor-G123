@@ -1,5 +1,5 @@
 # Minor-G123
-
+https://snap.stanford.edu/data/index.html#canets                
 Independent cascade,
 
 https://github.com/furkangursoy/RLforDiffPred/blob/master/CascadeGenerator.py           
